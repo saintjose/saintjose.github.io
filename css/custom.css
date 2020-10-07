@@ -1,0 +1,50 @@
+﻿.preloader .spinner {
+    background-color: #ff4757;
+}
+
+.bg-primary {
+    background-color: #ff4757 !important;
+}
+
+.site-header.site-header-dark .site-nav a:not(.btn).active, .site-header.site-header-light .site-nav a:not(.btn).active{
+    color: #ff4757;
+}
+
+.site-header.site-header-dark .site-nav a:not(.btn).active:before, .site-header.site-header-light .site-nav a:not(.btn).active:before {
+    border-left-color: #ff4757;
+}
+
+.text-success{
+    color: #2ed573
+}
+
+.text-primary {
+    color: #ff4757 !important;
+}
+
+.feature-block.feature-boxed.feature-decorated:before {
+    border-top: 2px solid #ff4757;
+    border-right: 2px solid #ff4757;
+}
+
+.text-blue {
+    color: #2e86de;
+}
+
+.text-green {
+    color: #10ac84;
+}
+
+.text-yellow {
+    color: #fbc531;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.clock {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
